@@ -17,6 +17,9 @@
 - :zap: В свободное время и смотрю работы других людей, а также играю в игры и учавствую в различых турнирах.
 
 - :mailbox:How to reach me: https://t.me/Nekoshkodan
+  <div id="header" align="center">
+  <img src=https://i.pinimg.com/originals/ca/d8/bc/cad8bcdcc6208deeca44737b2baad8d8.gif
+</div>
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
