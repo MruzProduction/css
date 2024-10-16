@@ -1,1 +1,3 @@
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<div id="header" align="center">
+  <img src=https://pin.it/79QxfLOlo
+</div>
