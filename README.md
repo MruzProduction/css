@@ -35,5 +35,4 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MruzProduction)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MruzProduction&theme=dark-minimalist)](https://git.io/streak-stats)
