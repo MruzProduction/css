@@ -1,0 +1,45 @@
+table{
+    width:  500px;
+    height: 300px;
+}
+td{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+th{
+    font-weight: lighter;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+
+}
+h2{
+    font-size: 40px;
+    font-weight: lighter;
+    
+}
+p{
+   font-size: 30px;
+   font-family: "Comic Sans MS";
+}
+h5 {
+	font-size: 30px;
+	line-height: 1.5;
+    font-weight: lighter;
+	text-align: justify;
+	width: 400px;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+}
+h6{
+    color: red green;
+    font: normal  40px/60px Arial 50px;
+    text-indent: 50px;
+        text-decoration: overline line-through;
+}
+a {
+    color: #ff0000;
+	text-decoration: none;
+}

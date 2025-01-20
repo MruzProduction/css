@@ -1,0 +1,30 @@
+p:first-of-type{
+    color: #db3939;
+}
+p:last-of-type{
+    color: aqua;
+}
+h1:nth-of-type(odd){
+    color: blueviolet;
+}
+h1:nth-last-of-type(even){
+    color: yellow;
+}
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}
+li:not(.elem){
+    color: burlywood;
+}
+#elem{
+    width: 300px;
+	height: 100px;
+	color: white;
+	background-color: violet; 
+    text-align: center;
+}

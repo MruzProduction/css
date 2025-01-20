@@ -1,0 +1,162 @@
+ #elem h2{
+    color: blue;
+ }
+ #elem .text {
+    color: rgb(95, 95, 159);
+ }
+ #elem li.text{
+    color: brown;
+ }
+ .zzz.ccc.eee{
+    color: blueviolet;
+ }
+ #elem h2.zzz {
+	color: rgb(23, 68, 29);
+}
+#e.bbb.zzz{
+    color: red;
+}
+#bock h1,#bock h2{
+   text-align: center;
+}
+h1{
+   font-size: 30px;
+}
+h2{
+   font-size: 20px;
+}
+#black h1,#black h2,#black h3{
+   text-align: center;
+}
+#black h2{
+   font-size: 16px;
+}
+#black h3{
+   font-size: 20px;
+   color: rgb(37, 124, 124);
+}
+.xxx .kkk , .eee h2.zzz ,#eee h2{
+   font-size: medium;
+   text-align: justify;
+}
+div p{
+   color: blue;
+}
+#blck h2{
+   text-decoration: wavy;
+   color: rgb(126, 205, 178);
+}
+#bl p.bbb{
+   text-decoration: double;
+   color: aqua;
+}
+#bk p.bbb{
+   text-align: end;
+   color: rgb(185, 54, 218);
+}
+
+#bc p.bbb , p.xxx{
+   color: rgb(255, 0, 221);
+}
+.fff h2.bbb{
+   color: rgb(20, 0, 64);
+}
+
+.block {
+	color: red;
+}
+p {
+	color: green; /* применится этот цвет */
+}
+ #elem + li {
+   color: blueviolet;
+   text-align: right;
+}
+.elem + li{
+   color: aqua;
+}
+#elem ~ li{
+   color: brown;
+}
+main * p{
+   color: blue;
+}
+[title]{
+   text-align: center;
+}
+p[title]{
+   text-align: center;
+   color: red ;
+}
+p[title = "hello"]{
+   text-align: center;
+   color: rebeccapurple ;
+}
+p[href^="https://"]{
+color: rgb(24, 10, 102);
+}
+p[href$=".html"]{
+   color: rgb(102, 61, 10);
+   }
+   p[href^="-top"]{
+      color: rgb(0, 0, 0);
+   }
+   a:hover{
+      color: aqua;
+      text-decoration: none;
+   }
+
+   a:visited{
+      color: green;
+   }
+   a:link{
+      color: brown;
+   }
+   a:active{color: blue;}
+   p{
+      color: blueviolet;
+      text-decoration: none;
+   }
+   p:hover{
+      color: brown;
+      text-decoration: underline;
+   }
+   #test p {
+      color: red;
+   }
+   #test p:hover {
+      text-decoration: none;
+   }
+   a.zzz {
+      color: red;
+   }
+   a.zzz:hover {
+      text-decoration: none;
+   }
+   #block a.zzz {
+      color: rgb(48, 32, 83);
+   }
+   #block a.zzz:hover {
+      text-decoration: none;
+   }
+   .block a.zzz {
+      color: rgb(0, 255, 98);
+   }
+   .block a.zzz:hover {
+      text-decoration: none;
+   }
+   li:first-child {
+      color: aquamarine;
+   }
+li:last-child{
+   color: #000;
+}
+li:nth-child(even){
+   color: blue;
+}
+p:first-of-type {
+	color: red;
+}
+p:last-of-type{
+   color: blue;
+}
